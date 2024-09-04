@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+  height: 30em;
+  width: 100%;
+  background-color:white; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-box{
+    height:95%;
+    width: 30%;
+    background:linear-gradient(green, lime);
+    border-radius: 5px;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+#input{
+  width: 80%;
+  height: 10%;
+  margin-top: 5%;
+  border-radius: 5px;
+  margin-left: 5%;
+  border: none;
+}
+
+#search{
+  height: 40px;
+  width: 35px;
+  border-radius: 35px;
+  border: none;
+  font-size:x-large;
+  color:green;
+}
+
+#region{
+  margin-left: 30%;
+  margin-top: 3%;
+  color: white;
+  font-weight:bolder;
+font-size: x-large;
+}
+
+#temperature{
+  margin-top: 2%;
+  font-size: 70px;
+  font-weight:bolder ;
+  color: white;
+  margin-left: 20%;
+}
+
+h6{
+  margin-left: 5%;
+  color: white;
+  margin-left: 25%;
+  font-size: larger;
+}
+
+#box{
+  height: 50%;
+  width: 95%;
+  /* border: 1px solid white; */
+  margin-left: 2%;
+display: flex;
+flex-wrap: wrap;
+align-items:center;
+justify-content: space-evenly;
+
+}
+
+#humid{
+  height: 25%;
+  width: 45%;
+  border: 1px solid white;
+  border-radius: 5px;
+  
+}
+
+#windd{
+  height: 25%;
+  width: 45%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+
+#feelslikee{
+  height: 25%;
+  width: 45%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+#visibiliti{
+  height: 25%;
+  width: 45%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+#pressuree{
+  height: 25%;
+  width: 45%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+
+#uvindes{
+  height: 25%;
+  width: 45%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+
+
+h4{
+  margin-top: 10%;
+  margin-left: 20%;
+  color: white;
+  font-weight: bold;
+}
+
+#humidity{
+  margin-top: 1%;
+  margin-left: 20%;
+  font-weight: bolder;
+  color: white;
+
+}
+
+
+#wind{
+  margin-top: 1%;
+margin-left:20% ;
+  font-weight: bold;
+  color: white;
+
+}
+
+
+#feelslike{
+  margin-top: 1%;
+  margin-left: 20%;
+  font-weight: bold;
+  color: white;
+
+}
+
+
+#visibility{
+  margin-top: 1%;
+  margin-left: 20%;
+  font-weight: bold;
+  color: white;
+
+}
+
+#pressure{
+  margin-top: 1%;
+  margin-left: 20%;
+  font-weight: bold;
+  color: white;
+
+}
+
+#uvindex{
+  margin-top: 1%;
+  margin-left: 20%;
+  font-weight: bold;
+  color: white;
+
+}
+
+
+
+
+
+
